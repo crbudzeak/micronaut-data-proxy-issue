@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: proxyissue
+---
+testFramework: junit
+sourceLanguage: java
